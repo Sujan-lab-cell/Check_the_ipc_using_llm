@@ -30,4 +30,4 @@ streamlit run app.py
 
 I've also generated a sample output image showing the chatbot answering **Section 302** with a PDF source reference.
 
-[Download the output image](sandbox:/mnt/data/ipc_chatbot_output.png) ​:contentReference[oaicite:0]{index=0}​
+![IPC Chatbot Screenshot](prg/Screenshot%20from%202026-09-02%2014-19-17.png)​
