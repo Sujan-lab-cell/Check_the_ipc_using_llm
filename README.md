@@ -25,3 +25,9 @@ A simple PDF-based chatbot that answers questions from the **Indian Penal Code, 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+### Output image
+
+I've also generated a sample output image showing the chatbot answering **Section 302** with a PDF source reference.
+
+[Download the output image](sandbox:/mnt/data/ipc_chatbot_output.png) ​:contentReference[oaicite:0]{index=0}​
